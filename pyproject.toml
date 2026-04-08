@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-system"
+version = "0.1.0"
+requires-python = ">=3.10"
+description = "RAG system with hybrid search, BGE-M3 embeddings and Llama 3.2 local LLM"
+authors = [{ name = "Ramon Valgas Luz" }]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["rag_system*"]
+
+[tool.pytest.ini_options]
+testpaths     = ["rag_system/tests"]
+python_files  = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts       = "-v --tb=short"
+markers = [
+    "unit: testes unitários isolados com mocks (sem serviços externos)",
+    "integration: testes de integração com componentes reais (ChromaDB em tmpdir)",
+]
+
+[tool.coverage.run]
+source = ["rag_system"]
+omit = [
+    "rag_system/tests/*",
+    "rag_system/evaluation/*",
+    "*/__init__.py",
+]
+
+[tool.coverage.report]
+show_missing = true
+skip_empty   = true
+fail_under   = 70

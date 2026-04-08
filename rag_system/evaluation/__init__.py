@@ -1,0 +1,1 @@
+"""Pacote de avaliação — métricas RAGAS e geração de test cases."""

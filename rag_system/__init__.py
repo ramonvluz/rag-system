@@ -1,0 +1,1 @@
+"""RAG System — sistema de recuperação aumentada por geração."""

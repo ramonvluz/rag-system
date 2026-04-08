@@ -1,0 +1,45 @@
+# ── Ambiente virtual ──────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Python ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Secrets ───────────────────────────────────────
+.env
+.env.example
+
+# ── Runtime / gerado automaticamente ─────────────
+chroma_db/
+bm25_index.pkl
+logs/
+rag_system/ingestion/ingestion_log.jsonl
+rag_system/evaluation/test_cases.jsonl
+rag_system/evaluation/results/
+snapshot_full.txt
+
+# ── IDE ───────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+
+# ── OS ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Data (manter estrutura, ignorar conteúdo) ─────
+data/processed/*
+!data/processed/.gitkeep
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml

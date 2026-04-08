@@ -1,0 +1,1 @@
+"""Pacote de recuperação — busca híbrida, reranking e geração."""

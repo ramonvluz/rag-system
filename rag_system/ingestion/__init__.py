@@ -1,0 +1,1 @@
+"""Pacote de ingestão — parsing, limpeza, chunking e indexação."""

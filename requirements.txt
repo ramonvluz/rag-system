@@ -1,0 +1,47 @@
+# Parsing
+docling
+beautifulsoup4
+lxml
+
+# Embedding + Reranking
+sentence-transformers
+torch>=2.0
+
+# Vector Store
+chromadb
+
+# BM25
+rank-bm25
+
+# LLM
+ollama
+groq
+openai
+
+# LangChain (integração RAGAS)
+langchain-huggingface
+langchain-core
+
+# API
+fastapi
+uvicorn[standard]
+httpx
+
+# Configuração
+pydantic-settings
+
+# Avaliação
+ragas==0.4.*
+datasets
+
+# Utilitários
+pandas
+openpyxl
+tabulate
+
+# Testes
+pytest
+pytest-cov
+
+# Linting
+ruff
