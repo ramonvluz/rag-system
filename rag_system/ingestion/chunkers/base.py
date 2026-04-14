@@ -1,3 +1,5 @@
+# rag_system/ingestion/chunkers/base.py
+
 """Classe base concreta para todos os chunkers do RAG System.
 
 Fornece helpers compartilhados de geração de chunk_id e metadados,

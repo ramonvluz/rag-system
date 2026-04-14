@@ -1,3 +1,5 @@
+# rag_system/retrieval/generator/prompt_builder.py
+
 """Construtor de prompts para o pipeline RAG.
 
 Monta o prompt final injetando os chunks recuperados como contexto

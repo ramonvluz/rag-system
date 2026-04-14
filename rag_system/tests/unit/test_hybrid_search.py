@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_hybrid_search.py
+
 """Testes unitários do HybridSearch.
 
 Verifica a fusão de scores semânticos e BM25 sem ChromaDB real.

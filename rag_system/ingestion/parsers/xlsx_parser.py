@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/xlsx_parser.py
+
 """Parser de arquivos Excel (.xlsx) usando pandas.
 
 Lê todas as abas (sheets) do arquivo e converte cada uma em formato

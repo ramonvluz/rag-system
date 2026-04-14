@@ -1,3 +1,5 @@
+# rag_system/core/logger.py
+
 """Fábrica de loggers padronizados para o RAG System.
 
 Todos os módulos do projeto devem obter seus loggers exclusivamente

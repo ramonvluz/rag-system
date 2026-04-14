@@ -1,3 +1,5 @@
+# rag_system/ingestion/cleaners/text_cleaner.py
+
 """Limpeza e normalização de texto extraído por parsers.
 
 Aplica um pipeline sequencial de transformações para remover ruídos

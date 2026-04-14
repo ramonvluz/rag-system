@@ -1,3 +1,5 @@
+# rag_system/ingestion/run_ingestion.py
+
 """Pipeline de ingestão do RAG System — entrada pelo CLI.
 
 Orquestra as etapas de parsing, limpeza, persistência em

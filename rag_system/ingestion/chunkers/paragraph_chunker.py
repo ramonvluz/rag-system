@@ -1,3 +1,5 @@
+# rag_system/ingestion/chunkers/paragraph_chunker.py
+
 """Chunker por parágrafos com carry-over para o RAG System.
 
 Estratégia padrão de chunking — respeita fronteiras naturais de

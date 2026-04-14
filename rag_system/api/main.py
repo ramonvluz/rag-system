@@ -1,3 +1,5 @@
+# rag_system/api/main.py
+
 """Ponto de entrada da API REST do RAG System.
 
 Inicializa a aplicação FastAPI, registra os routers de query e ingest,

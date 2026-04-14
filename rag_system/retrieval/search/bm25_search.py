@@ -1,3 +1,5 @@
+# rag_system/retrieval/search/bm25_search.py
+
 """Busca lexical usando o algoritmo BM25 (Best Match 25).
 
 Implementa a etapa esparsa do pipeline de busca híbrida — eficaz para

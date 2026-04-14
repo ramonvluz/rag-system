@@ -1,3 +1,5 @@
+# rag_system/evaluation/metrics.py
+
 """Utilitários de métricas e apresentação para a avaliação RAGAS.
 
 Fornece helpers compartilhados entre o runner de avaliação (evaluator.py)

@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_bge_embedder.py
+
 """Testes unitários do BGEEmbedder.
 
 Verifica embed_chunks (batch) e embed_query (individual) sem carregar o

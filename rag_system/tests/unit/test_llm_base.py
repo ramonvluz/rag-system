@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_llm_base.py
+
 """Testes unitários do LLMBase (ABC).
 
 Verifica o contrato da classe base abstrata via implementações concretas

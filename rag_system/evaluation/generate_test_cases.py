@@ -1,4 +1,5 @@
 # rag_system/evaluation/generate_test_cases.py
+
 """Gerador automático de casos de teste para avaliação RAGAS.
 
 Usa o Groq como LLM de geração para criar pares (question, ground_truth)

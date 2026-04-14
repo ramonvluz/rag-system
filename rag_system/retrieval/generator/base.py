@@ -1,3 +1,5 @@
+# rag_system/retrieval/generator/base.py
+
 """Classe base concreta para todos os LLMs do RAG System.
 
 Segue o mesmo padrão de ParserBase e ChunkerBase — camada intermediária

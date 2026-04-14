@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/factory.py
+
 """Fábrica de parsers do RAG System (Factory Pattern).
 
 Centraliza o mapeamento entre extensões de arquivo e parsers concretos.

@@ -1,3 +1,5 @@
+# rag_system/ingestion/vector_store/base.py
+
 """Classe base concreta para todas as implementações de vector store.
 
 Segue o mesmo padrão de ParserBase e ChunkerBase — camada intermediária

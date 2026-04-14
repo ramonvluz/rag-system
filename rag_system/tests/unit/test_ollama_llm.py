@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_ollama_llm.py
+
 """Testes unitários do OllamaLLM.
 
 Verifica o cliente Ollama local sem servidor real. O módulo ollama e as

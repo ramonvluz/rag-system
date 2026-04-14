@@ -1,3 +1,5 @@
+# rag_system/core/interfaces.py
+
 """Interfaces abstratas (ABCs) do RAG System.
 
 Define os contratos que todas as implementações concretas devem seguir,

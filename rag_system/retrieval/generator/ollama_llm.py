@@ -1,3 +1,5 @@
+# rag_system/retrieval/generator/ollama_llm.py
+
 """Implementação do LLM usando Ollama local.
 
 Usa o cliente ollama para gerar respostas via modelos rodando

@@ -1,3 +1,4 @@
+# rag_system/ingestion/parsers/html_parser.py
 """Parser de arquivos HTML usando BeautifulSoup.
 
 Extrai o conteúdo textual de páginas HTML, removendo elementos

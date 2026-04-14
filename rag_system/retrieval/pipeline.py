@@ -1,3 +1,5 @@
+# rag_system/retrieval/pipeline.py
+
 """Orquestrador central do pipeline RAG de recuperação e geração.
 
 Inicializa e conecta todos os componentes do pipeline de recuperação:

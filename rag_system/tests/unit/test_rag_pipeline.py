@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_rag_pipeline.py
+
 """Testes unitários do RAGPipeline.
 
 Verifica o orquestrador central em isolamento total: todos os componentes

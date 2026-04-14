@@ -1,3 +1,5 @@
+# rag_system/ingestion/chunkers/table_chunker.py
+
 """Chunker especializado para tabelas CSV e XLSX do RAG System.
 
 Processa documentos tabulares em formato Markdown (saída de CSVParser

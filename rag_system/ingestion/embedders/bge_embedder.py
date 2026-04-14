@@ -1,3 +1,5 @@
+# rag_system/ingestion/embedders/bge_embedder.py
+
 """Gerador de embeddings usando o modelo BGE-M3 (BAAI/bge-m3).
 
 Utiliza sentence-transformers para gerar embeddings densos normalizados

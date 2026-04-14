@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/csv_parser.py
+
 """Parser de arquivos CSV usando pandas.
 
 Lê arquivos CSV com pandas e converte o conteúdo em formato Markdown

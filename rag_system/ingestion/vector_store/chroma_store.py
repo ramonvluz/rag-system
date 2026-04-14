@@ -1,3 +1,5 @@
+# rag_system/ingestion/vector_store/chroma_store.py
+
 """Implementação do banco vetorial usando ChromaDB.
 
 Persiste chunks com embeddings em disco via ChromaDB PersistentClient,

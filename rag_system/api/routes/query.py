@@ -1,3 +1,5 @@
+# rag_system/api/routes/query.py
+
 """Rota POST /query — recuperação e geração de respostas via API REST.
 
 Expõe o RAGPipeline como endpoint HTTP. O pipeline é inicializado

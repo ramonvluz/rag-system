@@ -1,3 +1,5 @@
+# rag_system/retrieval/generator/groq_llm.py
+
 """Implementação do LLM usando a API remota do Groq.
 
 Usa o cliente oficial da Groq para gerar respostas via modelos

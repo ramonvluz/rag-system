@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/pdf_parser.py
+
 """Parser de documentos PDF usando Docling.
 
 Utiliza o Docling (DocumentConverter) para extrair texto de PDFs,

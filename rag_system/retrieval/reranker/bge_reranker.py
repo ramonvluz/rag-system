@@ -1,3 +1,5 @@
+# rag_system/retrieval/reranker/bge_reranker.py
+
 """Reranker de chunks usando cross-encoder BGE (BAAI/bge-reranker-base).
 
 Aplica uma etapa de reordenação mais precisa após a busca híbrida,

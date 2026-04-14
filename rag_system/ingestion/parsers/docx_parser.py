@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/docx_parser.py
+
 """Parser de documentos DOCX usando Docling.
 
 Utiliza o Docling (DocumentConverter) para extrair texto de arquivos

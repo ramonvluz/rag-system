@@ -1,3 +1,5 @@
+# rag_system/core/models.py
+
 """Modelos de dados centrais do RAG System.
 
 Define os contratos de dados compartilhados entre os pipelines

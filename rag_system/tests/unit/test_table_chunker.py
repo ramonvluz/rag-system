@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_table_chunker.py
+
 """Testes unitários do TableChunker.
 
 Verifica a estratégia de chunking por linha para documentos tabulares.

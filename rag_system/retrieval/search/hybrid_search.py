@@ -1,3 +1,5 @@
+# rag_system/retrieval/search/hybrid_search.py
+
 """Busca híbrida — fusão ponderada de busca semântica e BM25.
 
 Combina os resultados do VectorSearch (busca densa) e do BM25Search

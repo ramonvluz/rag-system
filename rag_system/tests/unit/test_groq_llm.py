@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_groq_llm.py
+
 """Testes unitários do GroqLLM.
 
 Verifica a integração com a API Groq sem realizar chamadas reais de rede.

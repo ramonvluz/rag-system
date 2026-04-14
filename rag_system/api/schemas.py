@@ -1,3 +1,5 @@
+# rag_system/api/schemas.py
+
 """Schemas Pydantic para validação de entrada e saída da API REST.
 
 Define os contratos de dados das rotas /query e /ingest,

@@ -1,3 +1,5 @@
+# rag_system/evaluation/ragas_eval.py
+
 """Runner de avaliação RAGAS com Groq como LLM avaliador.
 
 Executa o pipeline RAG sobre cada caso de teste do test_cases.jsonl,

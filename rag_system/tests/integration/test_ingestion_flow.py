@@ -1,4 +1,5 @@
 # rag_system/tests/integration/test_ingestion_flow.py
+
 """
 Testes de integração do pipeline de ingestão.
 

@@ -1,3 +1,5 @@
+# rag_system/ingestion/parsers/base.py
+
 """Classe base concreta para todos os parsers do RAG System.
 
 Fornece helpers compartilhados de geração de doc_id e metadados,

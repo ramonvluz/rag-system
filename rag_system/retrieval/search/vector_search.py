@@ -1,3 +1,5 @@
+# rag_system/retrieval/search/vector_search.py
+
 """Busca semântica por similaridade vetorial usando ChromaDB.
 
 Responsável pela etapa de busca densa no pipeline híbrido —

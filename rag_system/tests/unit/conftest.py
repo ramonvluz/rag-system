@@ -1,4 +1,5 @@
 # rag_system/tests/unit/conftest.py
+
 """Fixtures compartilhadas pelos testes unitários.
 
 Todos os dados são sintéticos e não dependem de nenhum serviço externo.

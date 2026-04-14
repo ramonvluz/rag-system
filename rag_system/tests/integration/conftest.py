@@ -1,4 +1,5 @@
 # rag_system/tests/integration/conftest.py
+
 """Fixtures compartilhadas pelos testes de integração.
 
 Estratégia de mock:

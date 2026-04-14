@@ -1,3 +1,5 @@
+# rag_system/api/routes/ingest.py
+
 """Rota POST /ingest — indexação de documentos via API REST.
 
 Expõe o pipeline de ingestão como endpoint HTTP, permitindo indexar

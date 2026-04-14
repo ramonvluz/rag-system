@@ -1,4 +1,5 @@
 # rag_system/tests/integration/test_api_endpoints.py
+
 """
 Testes de integração dos endpoints FastAPI.
 

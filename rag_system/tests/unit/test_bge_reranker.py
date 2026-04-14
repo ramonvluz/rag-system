@@ -1,4 +1,5 @@
 # rag_system/tests/unit/test_bge_reranker.py
+
 """Testes unitários do BGEReranker.
 
 Verifica o reranking cross-encoder sem carregar o modelo real. O CrossEncoder
